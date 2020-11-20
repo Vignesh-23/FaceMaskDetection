@@ -1,0 +1,79 @@
+.bg {
+  background-image: url("https://i.pinimg.com/originals/ae/66/d7/ae66d7f3f9670e3fc44ac013ce270902.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  position: relative;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px;
+  position: absolute;
+  left: 15rem;
+}
+
+.h1{
+  text-align: center;
+  text-shadow: red;
+  align-self: start;
+  align-items: flex-end;
+  border: ivory;
+  border-right-color: red;
+  border-style: double;
+  border-right-width: 1rem;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight:500;
+  font-size: 4.5rem;
+  font-style: initial;
+  text-align: center;
+  font-variant: small-caps;
+  color: rgb(0, 0, 0);
+
+}
+
+.submit{
+  text-align: center;
+}
+
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 100%;
+  height: 90vh;
+}
+
+input[type="file"] {
+  position: absolute;
+  z-index: -1;
+  top: 6px;
+  left: 15px;
+  font-size: 15px;
+  color: rgb(153,153,153);
+}
+
+.button-wrap {
+  position: relative;
+}
+
+.new-button {
+  display: inline-block;
+  padding: 10px 12px; 
+  cursor: pointer;
+  border-radius: 5px;
+  background-color: #9c27b0;
+  font-size: 16px;
+  color: #fff;
+  position: relative;
+  right: 15rem;
+}

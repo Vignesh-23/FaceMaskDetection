@@ -1,0 +1,19 @@
+.bg {
+    background-image: url("https://media.allure.com/photos/5e5fcdb369ab2d0009f20e55/16:9/w_2560%2Cc_limit/mask.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 160%;
+}
+
+.output{
+
+    font-size: 1.5em;
+    font-family: cursive;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    height: 40vh;
+
+}

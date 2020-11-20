@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "firm-mariner-284210",
+  "private_key_id": "0a71aa7f3ad6a0c9df96ab48263a0036c198eb12",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCF3LxTkh0jtq+h\nKOP7k4I/AuNEESP1PM9ZmOo2RPw/c0b/zjgC5TlMwwYbQqkfFylAGO8H+bkvVROe\nFNXYVWBB+sOxhFIJLGFye8kGTOcXczHMJcaJMPmIR4XRysrAQJyR6lCT/6APvOuQ\nJY/rT1iXOyaPdZmc26wua+wQzaQQk/UxL5pGVjTmik8jm/yrZmFm5SfY7Mvfhzl5\n7YL+8tMHszayFSD0YpoIRP8Sk4c/Xy8eEfdItrhZFNwDHIrfSvJ/oKe0IdoOpAPi\nOhQKjAKbPBMgngHfGziJCGMAcP8e6/hnAT5QqaZ1z7HDualYE72lpG55dq3maZ2W\nyoTUNXPZAgMBAAECggEADB0B88QMm/87nGdRXiImjqIpw66TZO1ITDDQvPF4LBu3\n6I0WN3jbuw0I3+2j1Tro0jKPatbXwac+u7bh9Q4gxEe3brhtHgRkmxIFimrqHI6h\nino+oYqLgiAKxYXG3Cfcoz2jZgkjSFlNrcEgaWhIOYMyRZgcOvwL9DVy6sBZIODJ\nM9K98j1WBqX3Iv5bSIoK4MgaibI3Fi6yIgpSGLX38gSd6UFn7Y9KyI2O9sWFF7D0\nib8luLFqqPt/dqME3swadHSz+sX0pb0z8TmwoPTXDa9T+9wQiTyBODSCxooL37Cq\n54qWokI7ILDwf1BmrMnFCkjlyQ3yZr9n7jYU6kVK4wKBgQC9RmqLPSm5MGquD2Fv\n8FzJJJ+egwxXhRR+8BSqMkmaOzBQJXSMNIcqfbVUp5e4Bf4w4uSz4CstMO29cjnq\nARp+1jy+2cqlZznxvarBKpMcbEFc6yMKRNCGSKg/OOuqul+GrPfUTR753WASY4l5\n+gA7iBDnnKogFwEtWzP2p2vphwKBgQC1DXTi9qSgUUPVcSUxHSQq3EqHrqNch5wi\nK+WTPChiWO4LGG4ylwMRyjegY5TMTSAllygxTo2DleAtY01QhWWDrIjc8J4RNKmE\nn7rzMItR8rPCkWxcGnOvWalJWpNn31AX2DtvzgVWVIgtH8m1MpaR2PGmEvaUIC5f\nHLOqdJuPnwKBgQCN2mFte2hyx4ucaiCPgWg4w77xUKwGR9HllM8YA1pQQf3igz/G\n+HM48D/fcz9tBujMALCA8wfI9bun2Rz4eN0/pBagvp92uVefCpQX822Pxr5yAjQf\ntRVHHtshjupo6QdA6w9OSIJnp3ciMQFOroRQGZj5zNtf833JXWojeLSSrwKBgBX7\nZUatNX21gCvpCd/1rs95YZ8pp/HzERThCYWf1zNhor08IR0JUrkVOT3C+Wz4rD+E\nI8AgznO8fbRlCx0MpS+gghl5KWfjYfWVQyiFq1Sux/6Gk4Z3O7Z9h109nwoMhffv\nLAA+Hk3GA6ae5mmWk8tvcJ9+S+veIGMx4+p9L+n3AoGAXaN12IC6JZ7V+d4P5lIw\nLobuteSbVaExO0pJp3zKmFRa7T0TNcUA2pax29RAGPVFWeeirSEB1lNQz5FgV6qN\nPg83vP/oJLZJUSjlXsr008CYgmYka3W+9Q6+pNZcfPNAQYfHU9mmqGfOdSIblVo5\nihK2Av2umyvN69MBpcWUXYQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "vignesh@firm-mariner-284210.iam.gserviceaccount.com",
+  "client_id": "112488090065267661857",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vignesh%40firm-mariner-284210.iam.gserviceaccount.com"
+}
